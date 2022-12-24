@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#00D8A6</color>
+    <color name="primaryDark">#03C699</color>
+    <color name="accent">#1FAA8E</color>
+    <color name="dark_blue">#003C30</color>
+    <color name="darken_blue">#021E18</color>
+
+    <color name="primaryLite">#E4EEFD</color>
+    <color name="bg">#E8EAEC</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    Main ui-->
+
+    <color name="icon">#6A6D71</color>
+    <color name="text">#2D323A</color>
+    <color name="gray">#CDCCCC</color>
+
+    <color name="blue_tint">#E0E5EC</color>
+    <color name="hint">#BCBCBC</color>
+    <color name="chat_bg">#daffb9</color>
+    <color name="chat_text">#46503c</color>
+    <color name="shadow_color">#EEEEEE</color>
+    <color name="red">#FF5F53</color>
+    <color name="green">#18B644</color>
+    <color name="orange">#D34A21</color>
+    <color name="dark_gray">#999999</color>
+
+    <!--    //etc color-->
+
+
+</resources>

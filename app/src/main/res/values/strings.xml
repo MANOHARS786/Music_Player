@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Rise Music Player</string>
+    <string name="love">Made With <font color='red'>&#x2764;&#xfe0f;</font> in India</string>
+
+    <string name="ads_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
